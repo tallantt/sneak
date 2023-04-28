@@ -13,6 +13,8 @@ public class GameField extends JPanel implements ActionListener{
     private Image apple;
     private int appleX;
     private int appleY;
+
+
     private int[] x = new int[ALL_DOTS];
     private int[] y = new int[ALL_DOTS];
     private int dots;
